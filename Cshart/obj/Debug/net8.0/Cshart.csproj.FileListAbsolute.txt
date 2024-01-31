@@ -1,0 +1,15 @@
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\bin\Debug\net8.0\Cshart.exe
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\bin\Debug\net8.0\Cshart.deps.json
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\bin\Debug\net8.0\Cshart.runtimeconfig.json
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\bin\Debug\net8.0\Cshart.dll
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\bin\Debug\net8.0\Cshart.pdb
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.AssemblyInfoInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.AssemblyInfo.cs
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.sourcelink.json
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.dll
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\refint\Cshart.dll
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.pdb
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\Cshart.genruntimeconfig.cache
+C:\Users\lenovo\OneDrive\Escritorio\proyectos-c#\pratica-Cshar\Cshart\obj\Debug\net8.0\ref\Cshart.dll
